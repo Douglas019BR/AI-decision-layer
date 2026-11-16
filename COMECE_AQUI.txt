@@ -1,0 +1,14 @@
+SITECOM AI - ETAPA TECNICA
+
+TEMPO MAXIMO: 3 HORAS DE TRABALHO EFETIVO.
+DEFESA: 30 MINUTOS EM ETAPA POSTERIOR.
+
+1. Leia DESAFIO_TECNICO_SITECOM_AI.pdf.
+2. Revise docs/CONTRATO.md e docs/POLITICA.md.
+3. Implemente src/engine.py.
+4. Rode python run.py < datasets/public_cases.jsonl > output.jsonl.
+5. Valide: python tools/validate_contract.py --cases datasets/public_cases.jsonl --outputs output.jsonl.
+6. Adicione seus testes e preencha DECISOES.md e USO_DE_IA.md.
+7. Entregue seu proprio ZIP ou repositorio privado conforme orientacao do recrutamento.
+
+O pacote nao contem o gabarito interno.
